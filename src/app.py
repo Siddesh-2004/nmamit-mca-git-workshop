@@ -6,7 +6,7 @@ A simple student directory app to practice Git workflows.
 
 def greet(name: str) -> str:
     """Return a greeting message for a student."""
-    return f"Hello, {name}! Welcome to the Git Workshop!"
+    return f"Hey {name}! Glad to have you at the Git Workshop!"
 
 
 def add_student(students: list, name: str, branch: str) -> list:
